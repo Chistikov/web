@@ -1,0 +1,19 @@
+{
+  "name": "vlad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+  	"node": "8.11.3"
+  },
+  "author": "vlad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.16.0",
+    "npm": "^6.4.0"
+  }
+}
